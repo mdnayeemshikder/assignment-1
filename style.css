@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half-to-half{
+    width: 50%;
+    padding-right: 6%;
+}
+section{
+    display: flex;
+    padding-left: 10%;
+}
+.half-to-half img{
+    width: 74%;
+    padding-left: 14%;
+
+}
+h1{
+    font-size: 70px;
+}
+.border-left{
+    border-left: 5px solid #FFAD5A;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: #FFAD5A;
+    padding: 12px 40px;
+    border-radius: 7px;
+}
+span{
+    color: #FFAD5A;
+}
+.pera{
+    padding-bottom: 20px;
+}
+.pera2{
+    padding-top: 20px;
+}
